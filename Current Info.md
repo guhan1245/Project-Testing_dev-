@@ -37,10 +37,10 @@ Members:
    pentesting role, 
    linux admin and doploy role , 
    cloud engineer role, 
-
+===============================================================================================================================================================
   Management:  Tamil remote developers. 
-     Available area 13.
-     current devs - 4.
-
+    Available area 13.
+    Current devs - 27.
+    Group - 8
   work stage:
-    stage 1
+    Stage 1
