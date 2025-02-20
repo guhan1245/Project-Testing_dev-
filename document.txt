@@ -1,0 +1,25 @@
+Project : name - 1 / Web Application For Data management File System. // Duration : 60 hrs. 
+                About: 
+                    Web developement Project for file management,
+                    Project Self reporters: >> 017, 018, 019, 020, 
+                                         >> "", "", "", "",
+                    
+                    
+                    
+          name - 2 / Petition analyzer and remainder to officials. // Duration : 200 hrs.
+                About: 
+                    Ai of Analysis petitions, categorize to relevent department with flag urgent and important cases. 
+                    Project Self report: >>  001, 002, 003, 004, 005, 006, 007, 008, 009, 010, 011, 012, 013, 014, 015, 016, 
+                                         >>  "", "Guhan", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
+Project : Grups List ||
+          F group - 1 / 002, 005, 009,
+          M group - 2 / 001, 015,
+          F group - 3 / 003, 112, 013,
+          M group - 4 / 004, 007,
+          M group - 5 / 014, 110,
+          M group - 6 / 010, 013,
+          M group - 7 / 006, 016,
+          M group - 8 / 019 Santha kumar, 018 vishnu raj, 
+          M group - 9 / 020 Suriya neethi, 017 Ajay kishore,
+          F group - 10 / 021 
+          
