@@ -11,7 +11,8 @@ Project : name - 1 / Web Application For Data management File System. // Duratio
                     Ai of Analysis petitions, categorize to relevent department with flag urgent and important cases. 
                     Project Self report: >>  001, 002, 003, 004, 005, 006, 007, 008, 009, 010, 011, 012, 013, 014, 015, 016, 
                                          >>  "", "Guhan", "", "", "", "", "", "", "", "", "", "", "", "", "", "",
-Project : Grups List ||
+-----------------------------------------------------------------------------------------------------------------------------------------
+Project : Groups List ||
           F group - 1 / 002, 005, 009,
           M group - 2 / 001, 015,
           F group - 3 / 003, 112, 013,
@@ -22,4 +23,4 @@ Project : Grups List ||
           M group - 8 / 019 Santha kumar, 018 vishnu raj, 
           M group - 9 / 020 Suriya neethi, 017 Ajay kishore,
           F group - 10 / 021 
-          
+  --------------------------------------------------------------------------------------------------------------------------------------        
